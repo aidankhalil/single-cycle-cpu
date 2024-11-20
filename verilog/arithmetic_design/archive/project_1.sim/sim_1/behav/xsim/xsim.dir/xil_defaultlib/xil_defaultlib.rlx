@@ -1,0 +1,13 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Users/finchs/Downloads/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+C:/Users/finchs/Downloads/project_1/project_1.srcs/sim_1/imports/sources_1/testbench.v,1696436765,verilog,,,,testbench,,,,,,,,
+C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/carry_generate.v,1696435042,verilog,,C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/carry_look_ahead_adder.v,,carry_generate,,,,,,,,
+C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/carry_look_ahead_adder.v,1696437143,verilog,,C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/carry_propagate.v,,carry_look_ahead_adder,,,,,,,,
+C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/carry_propagate.v,1696435086,verilog,,C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/look_ahead_carry.v,,carry_propagate,,,,,,,,
+C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/fulladder.v,1696431411,verilog,,C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/ripple_carry_adder.v,,fulladder,,,,,,,,
+C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/look_ahead_carry.v,1696436325,verilog,,C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/propagated_sum.v,,look_ahead_carry,,,,,,,,
+C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/propagated_sum.v,1696435132,verilog,,C:/Users/finchs/Downloads/project_1/project_1.srcs/sim_1/imports/sources_1/testbench.v,,propagated_sum,,,,,,,,
+C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/ripple_carry_adder.v,1696433826,verilog,,C:/Users/finchs/Downloads/project_1/project_1.srcs/sim_1/imports/sources_1/testbench.v,,ripple_carry_adder,,,,,,,,

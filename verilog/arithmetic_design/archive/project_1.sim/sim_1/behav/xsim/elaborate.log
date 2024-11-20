@@ -1,0 +1,29 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto e7a233dae481443a9b75477cbcc0bd60 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot testbench_behav xil_defaultlib.testbench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 4 for port 'C' [C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/carry_look_ahead_adder.v:18]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/carry_look_ahead_adder.v" Line 2. Module carry_look_ahead_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/carry_propagate.v" Line 2. Module carry_propagate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/carry_generate.v" Line 2. Module carry_generate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/look_ahead_carry.v" Line 2. Module look_ahead_carry doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/propagated_sum.v" Line 2. Module propagated_sum doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/carry_look_ahead_adder.v" Line 2. Module carry_look_ahead_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/carry_propagate.v" Line 2. Module carry_propagate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/carry_generate.v" Line 2. Module carry_generate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/look_ahead_carry.v" Line 2. Module look_ahead_carry doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/finchs/Downloads/project_1/project_1.srcs/sources_1/propagated_sum.v" Line 2. Module propagated_sum doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.carry_propagate
+Compiling module xil_defaultlib.carry_generate
+Compiling module xil_defaultlib.look_ahead_carry
+Compiling module xil_defaultlib.propagated_sum
+Compiling module xil_defaultlib.carry_look_ahead_adder
+Compiling module xil_defaultlib.testbench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testbench_behav
